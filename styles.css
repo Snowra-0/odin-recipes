@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    font-family: Verdana, arial, sans-serif;
+    
+}
+
+h1,
+h2 {
+    font-family: lucida handwriting; arial; sans-serif;
+    color: goldenrod;   
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: goldenrod;
+}
+
+.sub-title-pages {
+    text-align: left;
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
+
+.img-pages {
+    width: 990px;
+    height: auto;
+}
+
+ul, ol {
+    text-align: justify;
+    color:goldenrod;
+    background-color: rgb(243, 230, 154);  
+ 
+}
+
+.ol-pages,
+.ul-pages {
+    text-align: justify;
+    color: grey;
+    background-color: white;
+}
+
+a {
+    color: goldenrod;
+}
+
+p {
+    text-align: left;
+    color: grey
+}
+
+h3,
+.sub-title-pages {
+    text-align: justify;
+}
