@@ -2,7 +2,6 @@ body {
     text-align: center;
     font-family: raleway,Verdana, arial, sans-serif;
     font-size: 15px;
-    
 }
 
 h1,
@@ -38,7 +37,8 @@ img {
 ul, ol {
     text-align: justify;
     color:goldenrod;
-    background-color: rgb(243, 230, 154);  
+    background-color: transparent;  
+  
  
 }
 
